@@ -66,7 +66,7 @@ Para rodar qualquer um dos programas, siga as instruções abaixo:
 
    ```bash
    git clone https://github.com/felixdavidwebdev/ProjetoTeste2.git
-   cd seu-repositorio
+   cd ProjetoTeste2
 
    Navegue até o arquivo desejado e execute-o:
 
