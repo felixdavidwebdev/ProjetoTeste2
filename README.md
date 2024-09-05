@@ -73,7 +73,7 @@ Para rodar qualquer um dos programas, siga as instruções abaixo:
 ```bash
 
 Copiar código
-python nome_do_arquivo.py
+python calculo_soma.py
 
 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para relatar bugs ou sugerir melhorias, ou envie um pull request para contribuir com o código.
