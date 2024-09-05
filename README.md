@@ -65,7 +65,7 @@ Para rodar qualquer um dos programas, siga as instruções abaixo:
 2. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/felixdavidwebdev/ProjetoTeste2.git
    cd seu-repositorio
 
    Navegue até o arquivo desejado e execute-o:
